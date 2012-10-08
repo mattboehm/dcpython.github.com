@@ -67,13 +67,12 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 /* SPONSORS */
 
 .sponsors {
-    text-align: center;
 }
 .sponsor-hold {
     font-size: 250%;
     height: 200px;
     line-height: 30px;
-    width: 225px;
+    width: 255px;
     margin: 5px
     padding-top: 75px;
     text-align: center;
