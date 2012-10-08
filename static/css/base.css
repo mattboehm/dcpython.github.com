@@ -68,7 +68,8 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 .sponsor-hold {
     height: 200px;
-    margin: 1em;
+    margin: 5px;
     text-align: center;
-    font-size: 250%;
+    font-size: 300px;
+    line-height: 30px;
 }
