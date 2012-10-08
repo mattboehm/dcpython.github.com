@@ -67,8 +67,9 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 /* SPONSORS */
 
 .sponsor-hold {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
+    padding: 1em;
     text-align: center;
-    font-size: 160%;
+    font-size: 250%;
 }
