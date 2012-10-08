@@ -63,3 +63,12 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
     margin: 1em;
     border: 1px solid #bbb;
 }
+
+/* SPONSORS */
+
+.sponsor-hold {
+    height: 200px;
+    width: 200px;
+    background: #6B8DAC;
+    border-radius: 5px;
+}
