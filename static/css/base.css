@@ -65,7 +65,7 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 /* SPONSORS */
 .sponsors {
-    padding: 0 0 0 30px;
+    padding: 0 0 0 35px;
 }
 .sponsor-hold {
     font-size: 275%;
@@ -76,5 +76,5 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
     text-align: center;
 }
 .sponsor-levels {
-    padding: 0 0 0 25px;
+    padding: 0 0 0 30px;
 }
