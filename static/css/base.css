@@ -56,7 +56,6 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 #footer a{color:#777;}
 
 /* IMAGE */
-
 .image-right {
     float: right;
     padding: .3em;
@@ -65,11 +64,6 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 }
 
 /* SPONSORS */
-
-.level {
-    width: 240px;
-}
-
 .sponsors {
     padding: 0 0 0 35px;
 }
