@@ -66,6 +66,10 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 /* SPONSORS */
 
+.level {
+    width: 240px;
+}
+
 .sponsors {
     padding: 0 0 0 35px;
 }
