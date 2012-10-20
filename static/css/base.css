@@ -68,6 +68,7 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
     padding: 0 0 35px 35px;
 }
 .sponsor-hold small {
+    color: black;
     font-size: 50%;
 }
 .sponsor-hold {
