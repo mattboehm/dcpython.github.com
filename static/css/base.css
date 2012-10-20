@@ -65,7 +65,7 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 
 /* SPONSORS */
 .sponsors {
-    padding: 0 0 0 35px;
+    padding: 0 0 35px 35px;
 }
 .sponsor-hold small {
     font-size: 50%;
