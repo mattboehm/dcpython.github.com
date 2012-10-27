@@ -1,7 +1,7 @@
 body{margin:0px;padding:0px;border-top:5px solid black;box-shadow:0 0 3px #bbb inset;}
 
 /* HEADER */
-#logo{width:352px;height:49px;display:block;}/*background:url(dcpython.png);*/
+#logo{width:352px;height:41px;margin-top:25px;display:block;}/*background:url(dcpython.png);*/
 #logo a{text-decoration:none;color:#333;font-family:arial black;text-transform:uppercase;font-size:44px;}
 header{background:url(../img/bg_dot1.png);padding:10px;border-bottom:1px solid #ddd;}
 
