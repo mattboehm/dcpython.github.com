@@ -78,6 +78,9 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 .sponsor-hold-wide {
     width: 500px !important;
 }
+.sponsor-hold-double-wide {
+    width: 800px !important;
+}
 .sponsor-levels {
     padding: 0 0 0 30px;
 }
