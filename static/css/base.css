@@ -15,6 +15,7 @@ nav li a.sel{color:black;}
 
 /* PAGE ABOUT */
 #about{font-family:georgia;font-size:40px;font-style:italic;color:#5A5A5A;}
+#andy{font-family:georgia;font-size:40px;font-style:italic;color:#5A5A5A;background:#F4EDC6;text-shadow:0 0 1px #bbb;border-radius:3px;}
 .highlight{background:#E0CA53;color:white;display:inline-block;padding:0 4px 0 4px;}
 .light-highlight{background:#F4EDC6;text-shadow:0 0 1px #bbb;display:inline-block;padding:0 2px 0 2px;border-radius:3px;}
 
