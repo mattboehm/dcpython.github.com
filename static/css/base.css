@@ -51,9 +51,9 @@ p, li{font-family:georgia;color:#444;margin-top:0px;}
 #board-of-directors section p{margin:0px;padding:0px;}
 
 /* FOOTER */
-#footer, #disclosure {color:#777;font-size:13px;padding:20px;border-top:1px solid #eee;text-align:center;}
-#footer, #disclosure div{padding:3px;}
-#footer, #disclosure a{color:#777;}
+#footer {color:#777;font-size:13px;padding:20px;border-top:1px solid #eee;text-align:center;}
+#footer div{padding:3px;}
+#footer a{color:#777;}
 
 /* IMAGE */
 .image-right {
